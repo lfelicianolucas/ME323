@@ -1,0 +1,4 @@
+Obs.:
+O notebook do Jupyter pode precisar ser rodado duas vezes para mostrar os gráficos,
+mas se os programas forem rodados em outras IDE's basta fechar um gráfico, que o outro
+aparecerá na nova janela.
