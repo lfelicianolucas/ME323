@@ -7,3 +7,4 @@ Repositório contendo os laboratórios da matéria ME323
 
 Testando alteração, commit.
 Testando alteração, commit Breno.
+Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.Testando alteração, commit.
